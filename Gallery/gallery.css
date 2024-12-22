@@ -45,3 +45,16 @@ body {
 img:hover{
   box-shadow: 0 0 10px 0 #0a0a23;
 }
+audio{
+  background-color: #fff;
+  color: #fff;
+  border-radius: 22px;
+  width: 100%;
+  margin-top: 5px;
+  transition: box-shadow 0.5s;
+}
+
+audio:hover{
+  box-shadow: 0 0 10px 0 #0a0a23;
+}
+
